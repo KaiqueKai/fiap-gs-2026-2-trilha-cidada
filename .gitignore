@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+# Dados gerados durante a utilização: não publicar perguntas reais de usuários.
+data/historico.csv
+data/avaliacoes.csv
+data/atendimentos.csv
+.env.*
+!.env.example

@@ -1,0 +1,2 @@
+# Nenhuma dependência externa é necessária.
+# Interface gráfica: Tkinter (incluído nas instalações oficiais do Python para Windows).

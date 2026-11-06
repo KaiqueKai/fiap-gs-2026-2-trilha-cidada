@@ -1,0 +1,209 @@
+﻿id;tipo;pergunta;orientacao_esperada
+Q001;dentro_escopo;Como faço para emitir a Carteira de Trabalho Digital?;1
+Q002;dentro_escopo;Quero consultar meus contratos na carteira de trabalho.;1
+Q003;dentro_escopo;Quero baixar aplicativo carteira.;2
+Q004;dentro_escopo;Como faço login na carteira digital de trabalho?;2
+Q005;dentro_escopo;Onde encontro curso de aprendiz?;3
+Q006;dentro_escopo;Quero saber sobre entidade formadora e formação profissional.;3
+Q007;dentro_escopo;Tenho 16 anos, posso ser jovem aprendiz?;4
+Q008;dentro_escopo;Qual é a idade aprendiz?;4
+Q009;dentro_escopo;Como funciona aprendiz na prática?;5
+Q010;dentro_escopo;Quero entender teoria e prática do programa jovem aprendiz.;5
+Q011;dentro_escopo;O contrato de aprendizagem pode durar dois anos?;6
+Q012;dentro_escopo;Qual a duração aprendiz e o prazo contrato?;6
+Q013;dentro_escopo;Quantas horas por dia um aprendiz pode trabalhar?;7
+Q014;dentro_escopo;Qual a jornada de trabalho do jovem aprendiz?;7
+Q015;dentro_escopo;Quais são os direitos trabalhistas de um aprendiz?;8
+Q016;dentro_escopo;Quais benefícios jovem aprendiz recebe, como férias e décimo terceiro?;8
+Q017;dentro_escopo;Qual a alíquota de dois por cento no FGTS aprendiz?;9
+Q018;dentro_escopo;Como funciona o fundo de garantia do jovem aprendiz?;9
+Q019;dentro_escopo;Como é calculado o salário por hora do aprendiz?;10
+Q020;dentro_escopo;Qual o salário mínimo por hora do jovem aprendiz?;10
+Q021;dentro_escopo;Onde posso denunciar uma empresa por irregularidade trabalhista?;11
+Q022;dentro_escopo;Como fazer denúncia trabalhista no canal da Inspeção do Trabalho?;11
+Q023;dentro_escopo;Qual o telefone do Alô Trabalho 158?;12
+Q024;dentro_escopo;Como falar com o Ministério do Trabalho pelo telefone 158?;12
+Q025;dentro_escopo;Menor de 18 anos pode trabalhar de noite?;13
+Q026;dentro_escopo;Aprendiz menor de idade pode fazer trabalho noturno?;13
+Q027;dentro_escopo;Como consultar entidades formadoras habilitadas no CNAP?;14
+Q028;dentro_escopo;Quero encontrar curso de aprendizagem reconhecido pelo SENAI.;14
+Q029;dentro_escopo;É obrigatório estar matriculado e frequentar a escola para ser aprendiz?;15
+Q030;dentro_escopo;Jovem aprendiz precisa de frequência escolar?;15
+Q031;fora_escopo;Como trocar a tela quebrada do celular?;
+Q032;fora_escopo;Qual receita posso fazer para o jantar?;
+Q033;fora_escopo;Como declarar imposto de renda?;
+Q034;fora_escopo;Como solicitar passaporte para viajar?;
+Q035;fora_escopo;Como formatar um computador com Windows?;
+Q036;fora_escopo;Qual é a previsão do tempo para amanhã?;
+Q037;fora_escopo;Como denunciar barulho de vizinho?;
+Q038;fora_escopo;Como estudar para o vestibular?;
+Q039;fora_escopo;Qual aplicativo uso para consultar benefício do INSS?;
+Q040;fora_escopo;Como abrir conta em banco para menor de idade?;
+Q041;fora_escopo;Como calcular férias de servidor público?;
+Q042;fora_escopo;Como faço inscrição em curso de idiomas?;
+Q043;dentro_escopo;Como conseguir o primeiro emprego?;16
+Q044;dentro_escopo;Onde encontro vagas sem experiência?;16
+Q045;dentro_escopo;Como faço meu cadastro no SINE para buscar emprego?;25
+Q046;dentro_escopo;Como consultar vagas no Portal Emprega Brasil?;25
+Q047;dentro_escopo;Como montar um currículo para uma vaga de emprego?;17
+Q048;dentro_escopo;O que preciso fazer para criar meu CV?;17
+Q049;dentro_escopo;Nunca trabalhei. O que posso colocar no currículo?;18
+Q050;dentro_escopo;Como fazer um currículo para quem não tem experiência?;18
+Q051;dentro_escopo;O que escrever no objetivo profissional do currículo?;19
+Q052;dentro_escopo;Como deixar o objetivo do currículo alinhado à vaga?;19
+Q053;dentro_escopo;Como me preparar para uma entrevista de emprego?;20
+Q054;dentro_escopo;O que devo fazer antes de conversar com o recrutador?;20
+Q055;dentro_escopo;Fico nervoso na entrevista. Como controlar a ansiedade?;21
+Q056;dentro_escopo;Tenho medo de entrevista de emprego, o que posso fazer?;21
+Q057;dentro_escopo;Que roupa devo usar numa entrevista de emprego?;22
+Q058;dentro_escopo;Como escolher uma roupa adequada para processo seletivo?;22
+Q059;dentro_escopo;Onde encontro vagas de emprego em Itaquaquecetuba?;23
+Q060;dentro_escopo;Como me candidato às vagas do Itaquá Mais Emprego?;23
+Q061;dentro_escopo;Onde consigo fazer cursos profissionalizantes gratuitos em Itaqua?;24
+Q062;dentro_escopo;Como me inscrevo nos cursos do Qualifica Itaquá?;24
+Q063;dentro_escopo;Como usar o SINE para procurar trabalho?;25
+Q064;dentro_escopo;Onde faço cadastro para consultar vagas de emprego no SINE?;25
+Q065;dentro_escopo;Como atualizar meu perfil no Emprega Brasil?;26
+Q066;dentro_escopo;Como alterar minha formação e região de interesse no cadastro do trabalhador?;26
+Q067;dentro_escopo;Preciso estar no CadÚnico para participar do Progredir?;27
+Q068;dentro_escopo;Quem pode fazer cadastro no Programa Progredir?;27
+Q069;dentro_escopo;Como criar meu currículo dentro do Progredir?;28
+Q070;dentro_escopo;Onde fica a opção Meu Currículo no Progredir?;28
+Q071;dentro_escopo;Como editar meu currículo no Progredir?;29
+Q072;dentro_escopo;Como faço para salvar as alterações do currículo do Progredir?;29
+Q073;dentro_escopo;Por que não aparecem vagas de emprego no meu Progredir?;30
+Q074;dentro_escopo;Não encontro oportunidades na minha região pelo Progredir. O que faço?;30
+Q075;dentro_escopo;Como vou saber se uma empresa escolheu meu currículo no Progredir?;31
+Q076;dentro_escopo;A empresa avisa por telefone se eu for selecionado?;31
+Q077;dentro_escopo;Se eu me cadastrar no Progredir vou ter emprego garantido?;32
+Q078;dentro_escopo;O Progredir obriga as empresas a me contratar?;32
+Q079;dentro_escopo;Como encontrar cursos de qualificação no Progredir?;33
+Q080;dentro_escopo;O Progredir oferece cursos profissionalizantes gratuitos?;33
+Q081;dentro_escopo;Como devo me candidatar para uma vaga de emprego?;34
+Q082;dentro_escopo;Como enviar meu currículo para participar de uma seleção?;34
+Q083;dentro_escopo;Qual é o processo para me candidatar a um emprego?;34
+Q084;dentro_escopo;Onde encontro as instruções para me candidatar a uma vaga?;34
+Q085;dentro_escopo;Como faço para enviar meu currículo à empresa?;34
+Q086;dentro_escopo;Preciso colocar CPF no currículo?;35
+Q087;dentro_escopo;Tenho que colocar uma foto no currículo?;35
+Q088;dentro_escopo;Coloco estado civil no currículo?;35
+Q089;dentro_escopo;Quais dados não devo informar no currículo?;35
+Q090;dentro_escopo;Posso colocar RG no currículo?;35
+Q091;dentro_escopo;Nunca trabalhei, o que posso escrever no meu CV?;18
+Q092;dentro_escopo;Quais partes devo incluir em um currículo simples?;17
+Q093;dentro_escopo;O jovem aprendiz tem direito a tirar férias?;36
+Q094;dentro_escopo;Depois de quanto tempo o aprendiz pode sair de férias?;36
+Q095;dentro_escopo;O aprendiz recebe vale-transporte para ir ao curso?;37
+Q096;dentro_escopo;A empresa precisa fornecer passagem para o jovem aprendiz?;37
+Q097;dentro_escopo;Jovem aprendiz pode trabalhar em feriado?;38
+Q098;dentro_escopo;Podem me escalar no feriado sendo aprendiz?;38
+Q099;dentro_escopo;Menor aprendiz pode trabalhar depois das 22 horas?;39
+Q100;dentro_escopo;Tenho 17 anos e querem que eu trabalhe de madrugada. Pode?;39
+Q101;dentro_escopo;A empresa pode descontar falta na aula teórica do aprendiz?;40
+Q102;dentro_escopo;As horas do curso de aprendiz contam como jornada?;40
+Q103;fora_escopo;Como trocar a tela quebrada do meu celular?;
+Q104;fora_escopo;Qual é a previsão do tempo para amanhã?;
+Q105;fora_escopo;Me ensine uma receita de bolo de chocolate.;
+Q106;fora_escopo;Qual foi o placar do jogo de ontem?;
+Q107;fora_escopo;Como declarar imposto de renda?;
+Q108;fora_escopo;Resolva esta equação de segundo grau.;
+Q109;fora_escopo;Como configurar o Wi-Fi do roteador?;
+Q110;fora_escopo;Qual filme de ficção científica você recomenda?;
+Q111;dentro_escopo;Aprendiz maior de 18 anos tem direito a adicional noturno?;41
+Q112;dentro_escopo;Jovem aprendiz adulto que trabalha à noite recebe adicional?;41
+Q113;dentro_escopo;O aprendiz tem direito a intervalo para descanso?;42
+Q114;dentro_escopo;A pausa para refeição também vale para jovem aprendiz?;42
+Q115;dentro_escopo;A empresa precisa registrar o ponto nas aulas teóricas do aprendiz?;43
+Q116;dentro_escopo;O controle de ponto inclui a parte prática e teórica?;43
+Q117;dentro_escopo;Jovem aprendiz recebe seguro-desemprego quando acaba o contrato?;44
+Q118;dentro_escopo;Quais descontos podem aparecer no salário do aprendiz?;45
+Q119;fora_escopo;Como fazer uma maquiagem para festa?;
+Q120;fora_escopo;Qual a capital da Argentina?;
+Q121;dentro_escopo;Como faço uma carta para pedir demissão?;46
+Q122;dentro_escopo;Quero sair da empresa por vontade própria. Como formalizo?;46
+Q123;dentro_escopo;Se eu pedir as contas, quais valores tenho para receber?;47
+Q124;dentro_escopo;Quem pede demissão recebe férias e décimo terceiro?;47
+Q125;dentro_escopo;Sou mensalista e pedi demissão. Tenho que cumprir aviso?;48
+Q126;dentro_escopo;Se eu sair sem cumprir o aviso, podem descontar?;48
+Q127;dentro_escopo;Em quantos dias a empresa tem que pagar meu acerto?;49
+Q128;dentro_escopo;Já saí do emprego e ainda não pagaram a rescisão. Qual é o prazo?;49
+Q129;dentro_escopo;Compare pedir demissão com ser dispensado sem justa causa: o que muda?;50
+Q130;dentro_escopo;Qual a diferença entre pedir as contas e ser mandado embora sem justa causa?;50
+Q131;dentro_escopo;Meu patrão não paga e descumpre o contrato. Posso pedir rescisão indireta?;51
+Q132;dentro_escopo;Quando posso encerrar o contrato por culpa da empresa?;51
+Q133;dentro_escopo;A empresa quer fazer acordo para me desligar. Como funciona?;52
+Q134;dentro_escopo;Se eu fizer acordo para sair, quanto do FGTS posso sacar?;52
+Q135;dentro_escopo;Fui dispensado sem justa causa. O que tenho direito a receber?;53
+Q136;dentro_escopo;Quais são meus direitos quando a empresa me manda embora sem justa causa?;53
+Q137;dentro_escopo;Fui demitido por justa causa. O que ainda recebo?;54
+Q138;dentro_escopo;Posso contestar uma justa causa que considero injusta?;54
+Q139;dentro_escopo;Meu salário não caiu. Até que dia a empresa pode pagar?;55
+Q140;dentro_escopo;Qual é o quinto dia útil para pagamento do salário?;55
+Q141;dentro_escopo;Quanto está o salário mínimo no Brasil em 2026?;56
+Q142;dentro_escopo;Qual o valor do mínimo nacional por mês em 2026?;56
+Q143;dentro_escopo;Quantas horas por semana posso trabalhar segundo a regra atual?;57
+Q144;dentro_escopo;A jornada de 44 horas vai mudar em dezembro de 2026?;57
+Q145;dentro_escopo;Quanto a mais recebo por fazer hora extra?;58
+Q146;dentro_escopo;A empresa pode exigir hora extra sem pagar adicional?;58
+Q147;dentro_escopo;Trabalho 8 horas por dia. Quanto tempo tenho para almoçar?;59
+Q148;dentro_escopo;Quem trabalha 6 horas tem direito a pausa?;59
+Q149;dentro_escopo;Saí às 23h e querem que eu volte às 7h. Pode?;60
+Q150;dentro_escopo;Quantas horas de descanso preciso ter entre dois turnos?;60
+Q151;dentro_escopo;Quantas folgas semanais são garantidas pela regra de 2026?;61
+Q152;dentro_escopo;Vou ter dois dias de descanso por semana a partir de dezembro?;61
+Q153;dentro_escopo;Trabalho das 22h às 5h. Tenho adicional noturno?;62
+Q154;dentro_escopo;Qual é o adicional para trabalho noturno urbano?;62
+Q155;dentro_escopo;Depois de um ano trabalhando, quantos dias de férias tenho?;63
+Q156;dentro_escopo;Posso perder dias de férias por causa de faltas?;63
+Q157;dentro_escopo;A empresa pode dividir minhas férias em três partes?;64
+Q158;dentro_escopo;Quando o pagamento das férias deve cair?;64
+Q159;dentro_escopo;Quais motivos permitem faltar ao trabalho sem desconto?;65
+Q160;dentro_escopo;Quais são as faltas justificadas previstas na CLT?;65
+Q161;dentro_escopo;A empresa precisa assinar minha carteira antes de eu começar?;66
+Q162;dentro_escopo;Comecei hoje. Meu registro já deveria aparecer na carteira digital?;66
+Q163;dentro_escopo;Quanto a empresa deposita de FGTS por mês?;67
+Q164;dentro_escopo;O FGTS de 8% é descontado do meu salário?;67
+Q165;dentro_escopo;Quem pede demissão consegue receber seguro-desemprego?;68
+Q166;dentro_escopo;Fui mandado embora sem justa causa. Posso pedir seguro?;68
+Q167;dentro_escopo;A empresa pode descontar qualquer coisa do meu holerite?;69
+Q168;dentro_escopo;Podem descontar do salário um prejuízo que aconteceu no trabalho?;69
+Q169;dentro_escopo;A empresa é obrigada a fornecer capacete e luvas?;70
+Q170;dentro_escopo;Tenho que pagar pelos equipamentos de proteção do trabalho?;70
+Q171;dentro_escopo;Meu chefe me humilha todos os dias. O que posso fazer?;71
+Q172;dentro_escopo;Como denunciar assédio moral ou sexual no trabalho?;71
+Q173;dentro_escopo;Se eu trabalhar no feriado, tenho direito a receber em dobro?;72
+Q174;dentro_escopo;A empresa pode me escalar todo domingo?;72
+Q175;dentro_escopo;Quanto tempo pode durar o contrato de experiência?;73
+Q176;dentro_escopo;A empresa pode renovar o contrato de experiência várias vezes?;73
+Q177;dentro_escopo;Trabalho todo dia, mas a empresa não assinou minha carteira. O que faço?;74
+Q178;dentro_escopo;Tenho direitos mesmo trabalhando sem registro?;74
+Q179;dentro_escopo;Quando a empresa deve pagar o décimo terceiro?;75
+Q180;dentro_escopo;Como é calculado o 13º salário proporcional?;75
+Q181;fora_escopo;Como faço para declarar imposto de renda?;
+Q182;fora_escopo;Qual é a previsão do tempo para amanhã?;
+Q183;fora_escopo;Me indique um restaurante italiano em São Paulo.;
+Q184;fora_escopo;Como consertar a tela do meu celular?;
+Q185;fora_escopo;Qual o placar do jogo de futebol de ontem?;
+Q186;fora_escopo;Faça um treino de musculação para ganhar massa.;
+Q187;fora_escopo;Como pedir segunda via da conta de luz?;
+Q188;fora_escopo;Qual filme está em cartaz no cinema?;
+Q189;fora_escopo;Como trocar a senha do meu roteador?;
+Q190;fora_escopo;Qual é a cotação do dólar hoje?;
+Q191;fora_escopo;Como fazer uma receita de bolo de cenoura?;
+Q192;dentro_escopo;Como pedir demissão?;46
+Q193;dentro_escopo;transporte;76
+Q194;dentro_escopo;A empresa tem que pagar minha condução?;76
+Q195;dentro_escopo;Como faço para pedir passagem para ir trabalhar?;76
+Q196;dentro_escopo;Jovem aprendiz tem direito a transporte?;37
+Q197;dentro_escopo;Preciso de vale-transporte para ir ao curso de aprendizagem.;37
+Q198;dentro_escopo;seguro desemprego;68
+Q199;dentro_escopo;seguro-desemprego;68
+Q200;dentro_escopo;benefício seguro desemprego;68
+Q201;dentro_escopo;seguro desempregp;68
+Q202;dentro_escopo;seguro desemprgo;68
+Q203;dentro_escopo;seguro desempregoo;68
+Q204;dentro_escopo;seguro desempregeo;68
+Q205;dentro_escopo;Como montar curricuo?;17
+Q206;dentro_escopo;primeiro emprgo;16
+Q207;dentro_escopo;tranpsorte;76
+Q208;dentro_escopo;segur desemprego;68
