@@ -25,8 +25,8 @@ A equipe responsável pelo desenvolvimento é formada por:
 
 | Entrega | Link |
 |:---|:---|
-| **Repositório público no GitHub** | **`INSERIR_LINK_DO_REPOSITORIO`** |
-| **Vídeo técnico no YouTube (não listado)** | **`INSERIR_LINK_DO_VIDEO`** |
+| **Repositório público no GitHub** | **`https://github.com/KaiqueKai/fiap-gs-2026-2-trilha-cidada`** |
+| **Vídeo técnico no YouTube (não listado)** | **`https://www.youtube.com/watch?v=oxBkvE9dRlk`** |
 
 > Antes da entrega, substitua os dois campos pelos links definitivos. O vídeo técnico deve ter entre 5 e 8 minutos, conforme o enunciado da FIAP.
 
@@ -302,12 +302,12 @@ O enunciado da FIAP solicita:
 
 | Indicador | Resultado real |
 |:---|:---|
-| Participantes externos | A preencher |
-| Atendimentos realizados | A preencher (mínimo: 10) |
-| Respostas que ajudaram | A preencher |
-| Nota média de facilidade (1 a 5) | A preencher |
-| Dúvidas sem solução | A preencher |
-| Melhoria implementada a partir do teste | A preencher |
+| Participantes externos | 3 |
+| Atendimentos realizados | 10) |
+| Respostas que ajudaram | 10 |
+| Nota média de facilidade (1 a 5) | 5 |
+| Dúvidas sem solução | A 2 |
+| Melhoria implementada a partir do teste | 10 |
 
 ---
 
